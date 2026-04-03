@@ -1,178 +1,218 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Md%20Jahedul%20Islam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20MERN%20Developer&descAlignY=65&descSize=20&descColor=7ecfff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md%20Jahedul%20Islam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+Jahedul;Full+Stack+MERN+Developer+%F0%9F%9A%80;Passionate+Frontend+Developer+%F0%9F%92%BB;Next.js+%26+React+Enthusiast+%E2%9A%A1;Building+Amazing+Web+Experiences+%F0%9F%8C%9F" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=mrbabu07&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/md-jahedul-islam37/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.facebook.com/jahedulislam.mdjabed">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://www.instagram.com/md_jabed_ig/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:mdjahedulislamjaved@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
----
+<br/>
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-## 👨‍💻 Who Am I?
-
-I'm **Jahedul** — a Full Stack MERN Developer from 🇧🇩 **Chittagong, Bangladesh**, obsessed with crafting fast, scalable, and beautiful web applications.
-
-- 🔭 Currently building **BazarBD** — a full-stack e-commerce platform
-- 🌱 Deep-diving into **Advanced Next.js** & distributed systems
-- 💡 I turn ideas into production-ready apps
-- ☕ Powered by coffee & curiosity
-- 😄 *I make people laugh while debugging their code!*
-
-> *"Talk is cheap. Show me the code."* — Linus Torvalds
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7ECFFF&center=true&vCenter=true&width=380&lines=MERN+Stack+Developer+%F0%9F%9A%80;Next.js+%26+React+Enthusiast+%E2%9A%A1;Building+Scalable+Web+Apps+%F0%9F%8C%9F;Open+to+Collaborate+%F0%9F%A4%9D;console.log('Hello+World!'+%F0%9F%91%8B)"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jahedul-islam37/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdjahedulislamjaved@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/jahedulislam.mdjabed)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/md_jabed_ig/)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```javascript
+const jahedul = {
+    pronouns: "He" | "Him",
+    location: "Chittagong, Bangladesh 🇧🇩",
+    title: "Full Stack MERN Developer",
+    education: "Programming Hero - Batch 12 🎓",
+    currentProject: "Next.js Applications",
+    specialProject: "BazarBD - E-commerce Platform",
+    
+    code: {
+        frontend: ["React", "Next.js", "Vue.js", "HTML5", "CSS3"],
+        backend: ["Node.js", "Express.js", "PHP"],
+        database: ["MongoDB", "MySQL", "Firebase"],
+        styling: ["Tailwind CSS", "Bootstrap", "Material-UI"],
+        tools: ["Git", "VS Code", "Postman", "Figma"]
+    },
+    
+    architecture: ["MERN Stack", "RESTful APIs", "SPA", "PWA"],
+    
+    currentFocus: "Building Scalable Web Applications",
+    funFact: "I debug with console.log and I'm not ashamed! 😄",
+    challenge: "I turn coffee into code ☕➡️💻"
+};
+```
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=mrbabu07&label=Profile+Views&color=0e75b6&style=flat-square)
+## 🎯 What I'm Up To
 
-</td>
-</tr>
-</table>
+```yaml
+current_status:
+  - 🔭 Working on: Next.js E-commerce Projects
+  - 🌱 Mastering: Advanced Next.js & Full Stack MERN
+  - 👯 Open to: E-commerce & Web App Collaborations  
+  - 🤝 Building: BazarBD - Full Stack E-commerce Platform
+  - 💬 Ask me about: React, Next.js, MongoDB, Express, Node.js
+  - 🎯 2025 Goals: Contribute to Open Source & Build SaaS Products
+  - ⚡ Fun fact: I make people laugh while debugging their code!
+```
 
----
-
-## 🧰 Tech Stack
-
-<details open>
-<summary><b>🎨 Frontend</b></summary>
 <br/>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & Database</b></summary>
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-</details>
-
-<details open>
-<summary><b>🛠️ Tools & Platforms</b></summary>
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</details>
-
----
-
-## 📊 GitHub Stats
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrbabu07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbabu07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🧰 Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrbabu07&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrbabu07&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mrbabu07&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbabu07&layout=compact&theme=radical&hide_border=true&langs_count=10" />
 </div>
+
+<br/>
 
 <div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=mrbabu07&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=mrbabu07&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
----
+<br/>
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrbabu07&custom_title=Jahedul%27s%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrbabu07&custom_title=Jahedul's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Contribution Graph" />
 </div>
 
----
+<br/>
 
-## 🐍 Contribution Snake
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 Contribution Snake Animation
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrbabu07/mrbabu07/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrbabu07/mrbabu07/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/mrbabu07/mrbabu07/output/github-contribution-grid-snake.svg" width="100%"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mrbabu07/mrbabu07/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
----
+<br/>
 
-## 🏆 Highlights
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```
-🎓  Programming Hero — Web Development Batch 12 Graduate
-💼  Full Stack MERN Developer
-🚀  15+ Real-world Projects Delivered
-🛒  Built BazarBD — End-to-end E-commerce Platform
-🌍  Open Source Contributor
-🎯  2025 Goal: Launch a SaaS Product & Contribute to Major OSS Projects
-```
-
----
-
-## 💼 Expertise at a Glance
-
-| Layer | Technologies |
-|---|---|
-| **Frontend** | React.js · Next.js · Vue.js · Tailwind CSS · HTML5 · CSS3 |
-| **Backend** | Node.js · Express.js · PHP · JWT Auth · REST APIs |
-| **Database** | MongoDB · MySQL · Firebase · Mongoose |
-| **DevOps & Tools** | Git · GitHub · Postman · Figma · Linux · VS Code |
-| **Architecture** | MERN Stack · SPA · PWA · RESTful APIs |
-
----
+## 💼 Professional Expertise
 
 <div align="center">
 
-### 📬 Let's Build Something Together
+| **MERN Stack** | **Frontend** | **Backend** | **Database** |
+|:-:|:-:|:-:|:-:|
+| ✅ MongoDB | ⚛️ React.js | 🟢 Node.js | 🍃 MongoDB |
+| 📦 Express.js | ⚡ Next.js | 🚂 Express.js | 🐬 MySQL |
+| ⚛️ React.js | 🎨 Tailwind | 🔐 JWT Auth | 🔥 Firebase |
+| 🟢 Node.js | 🎭 Vue.js | 🌐 REST API | 📊 Mongoose |
 
-[![Email Me](https://img.shields.io/badge/Email%20Me-mdjahedulislamjaved%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdjahedulislamjaved@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jahedul-islam37/)
+</div>
 
 <br/>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎓 Achievements & Certifications
+
+```
+✨ Completed Programming Hero - Web Development Course (Batch 12)
+🏆 Full Stack MERN Developer Certified
+💡 Built 15+ Real-world Projects
+🚀 Specialized in E-commerce Solutions
+🎯 Active Open Source Contributor
+```
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+## 📫 Let's Connect & Collaborate
+
+<div align="center">
+
+**"Talk is cheap. Show me the code!"** - Linus Torvalds
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/mrbabu07)
+[![Resume](https://img.shields.io/badge/Resume-Download-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://github.com/mrbabu07)
+[![Email](https://img.shields.io/badge/Email-mdjahedulislamjaved@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdjahedulislamjaved@gmail.com)
+
+<br/>
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+### Show some ❤️ by starring ⭐ some of my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
