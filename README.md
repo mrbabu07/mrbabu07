@@ -1,26 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Md%20Jahedul%20Islam&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20Chittagong%2C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descSize=16&descAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a1a2e,100:16213e&height=180&section=header&text=Md%20Jahedul%20Islam&fontSize=54&fontColor=e2c27d&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20MERN%20Developer&descSize=18&descAlignY=68&descColor=a0a0b0"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=20&duration=3000&pause=1500&color=E2C27D&center=true&vCenter=true&width=600&lines=Building+elegant%2C+scalable+web+applications;Crafting+BazarBD+%E2%80%94+E-commerce+Platform;Next.js+%7C+MongoDB+%7C+Express+%7C+React;Open+to+collaborations+%26+freelance+work)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Building+Scalable+Web+Applications;%F0%9F%9B%92+Crafting+BazarBD+E-commerce+Platform;%F0%9F%8C%B1+Mastering+Advanced+Next.js+%26+MERN;%F0%9F%8E%AF+Turning+Coffee+into+Code+Since+Batch+12" alt="Typing SVG" />
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230a0a0a.svg?style=for-the-badge&logo=linkedin&logoColor=e2c27d)](https://www.linkedin.com/in/md-jahedul-islam37/)
+[![Gmail](https://img.shields.io/badge/Gmail-%230a0a0a.svg?style=for-the-badge&logo=gmail&logoColor=e2c27d)](mailto:mdjahedulislamjaved@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%230a0a0a.svg?style=for-the-badge&logo=github&logoColor=e2c27d)](https://github.com/mrbabu07)
+[![Facebook](https://img.shields.io/badge/Facebook-%230a0a0a.svg?style=for-the-badge&logo=facebook&logoColor=e2c27d)](https://www.facebook.com/jahedulislam.mdjabed)
+[![Instagram](https://img.shields.io/badge/Instagram-%230a0a0a.svg?style=for-the-badge&logo=instagram&logoColor=e2c27d)](https://www.instagram.com/md_jabed_ig/)
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=mrbabu07&color=e2c27d&style=flat-square&label=Profile+Views)
+&nbsp;
+![](https://img.shields.io/badge/Status-Open%20to%20Collaborate-e2c27d?style=flat-square)
+&nbsp;
+![](https://img.shields.io/badge/Based%20in-Chittagong%2C%20Bangladesh-e2c27d?style=flat-square)
+
 </div>
+
+<br/>
+
+---
 
 <br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=A78BFA&labelColor=0f0c29)](https://www.linkedin.com/in/md-jahedul-islam37/)
-[![Facebook](https://img.shields.io/badge/-Facebook-0f0c29?style=for-the-badge&logo=facebook&logoColor=A78BFA&labelColor=0f0c29)](https://www.facebook.com/jahedulislam.mdjabed)
-[![Instagram](https://img.shields.io/badge/-Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0f0c29)](https://www.instagram.com/md_jabed_ig/)
-[![Gmail](https://img.shields.io/badge/-Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=0f0c29)](mailto:mdjahedulislamjaved@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=mrbabu07&label=Profile+Views&color=A78BFA&style=for-the-badge)](https://github.com/mrbabu07)
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   const developer = {                                       │
+│     name     : "Md Jahedul Islam",                          │
+│     role     : "Full Stack MERN Developer",                 │
+│     location : "Chittagong, Bangladesh  🇧🇩",              │
+│     education: "Programming Hero — Batch 12",               │
+│     flagship : "BazarBD E-commerce Platform",               │
+│     available: true,   // open to work & collaborations     │
+│     passion  : "Turning ideas into elegant products",       │
+│   };                                                        │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -28,61 +60,34 @@
 
 ---
 
-<div align="center">
+## ◈ Currently
 
-## 🧑‍💻 About Me
-
-</div>
-
-```ts
-const jahedul: Developer = {
-  name:      "Md Jahedul Islam",
-  role:      "Full Stack MERN Developer 🚀",
-  location:  "Chittagong, Bangladesh 🇧🇩",
-  education: "Programming Hero — Batch 12 🎓",
-  flagship:  "BazarBD — E-commerce Platform 🛒",
-  available: true,  // open to collaborations!
-  funFact:   "I debug with console.log and I'm NOT ashamed 😄",
-  superpower:"Turning ☕ into elegant, scalable code",
-};
-` ` `
-
-<br/>
-
----
-
-<div align="center">
-
-## 🎯 What I'm Building Right Now
-
-</div>
-
-<table align="center">
+<table width="100%">
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 🔭 Current Work
-> **BazarBD** — A full-featured e-commerce platform built with Next.js, MongoDB, and Express. Complete with auth, cart, checkout & admin panel.
+**🔭 &nbsp;Building**
+> **BazarBD** — A production-grade e-commerce platform featuring authentication, shopping cart, checkout flow, and a full admin panel. Stack: Next.js · MongoDB · Express · JWT
 
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 🌱 Currently Mastering
-> **Advanced Next.js** — App Router, Server Components, ISR/SSR strategies, and performance optimization at scale.
+**🌱 &nbsp;Mastering**
+> **Advanced Next.js** — App Router architecture, React Server Components, ISR & SSR optimization strategies, and edge-ready performance patterns
 
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 👯 Open To
-> E-commerce platforms, SaaS MVPs, full-stack web apps, and meaningful open source contributions.
+**👯 &nbsp;Open To**
+> Full-stack projects · E-commerce platforms · SaaS MVPs · Open source collaborations · Freelance opportunities
 
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 🎯 2025 Goals
-> Ship a SaaS product, contribute to major open-source repos, and mentor fellow devs in the community.
+**🎯 &nbsp;2025 Vision**
+> Ship a SaaS product to production · Contribute to major open-source repos · Mentor early-stage developers in the community
 
 </td>
 </tr>
@@ -92,48 +97,46 @@ const jahedul: Developer = {
 
 ---
 
-<div align="center">
-
-## 🛠️ Technology Arsenal
-
-</div>
+## ◈ Technology Arsenal
 
 <div align="center">
 
-### ⚛️ Frontend
+**— Frontend —**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![React](https://img.shields.io/badge/React-%231a1a2e.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%231a1a2e.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%231a1a2e.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-%231a1a2e.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Vue.js](https://img.shields.io/badge/Vue.js-%231a1a2e.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-%231a1a2e.svg?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![HTML5](https://img.shields.io/badge/HTML5-%231a1a2e.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-%231a1a2e.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%231a1a2e.svg?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Material UI](https://img.shields.io/badge/MUI-%231a1a2e.svg?style=for-the-badge&logo=mui&logoColor=007FFF)
 
-### ⚙️ Backend & Database
+<br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+**— Backend & Data —**
 
-### 🧰 Tools & Extras
+![Node.js](https://img.shields.io/badge/Node.js-%231a1a2e.svg?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-%231a1a2e.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%231a1a2e.svg?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-%231a1a2e.svg?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Firebase](https://img.shields.io/badge/Firebase-%231a1a2e.svg?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![JWT](https://img.shields.io/badge/JWT-%231a1a2e.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%231a1a2e.svg?style=for-the-badge&logo=php&logoColor=777BB4)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+<br/>
+
+**— Tools & Workflow —**
+
+![Git](https://img.shields.io/badge/Git-%231a1a2e.svg?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-%231a1a2e.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%231a1a2e.svg?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-%231a1a2e.svg?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Figma](https://img.shields.io/badge/Figma-%231a1a2e.svg?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Linux](https://img.shields.io/badge/Linux-%231a1a2e.svg?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Python](https://img.shields.io/badge/Python-%231a1a2e.svg?style=for-the-badge&logo=python&logoColor=3776AB)
 
 </div>
 
@@ -141,49 +144,18 @@ const jahedul: Developer = {
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Stats & Analytics
-
-</div>
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mrbabu07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=A78BFA" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=mrbabu07&theme=tokyonight&hide_border=true&background=0f0c29&ring=A78BFA&fire=f97316&currStreakLabel=A78BFA&sideLabels=A78BFA&stroke=A78BFA" />
-</div>
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbabu07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=c9d1d9&langs_count=10" />
-</div>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrbabu07&bg_color=0f0c29&color=A78BFA&line=A78BFA&point=ffffff&area=true&area_color=A78BFA&hide_border=true&title_color=A78BFA" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrbabu07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" />
-</div>
-
-<br/>
-
----
+## ◈ GitHub Statistics
 
 <div align="center">
 
-## 🏆 Milestones & Achievements
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrbabu07&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0d1a&title_color=e2c27d&icon_color=e2c27d&text_color=a0a0b0&ring_color=e2c27d" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=mrbabu07&hide_border=true&background=0d0d1a&ring=e2c27d&fire=e2c27d&currStreakLabel=e2c27d&sideLabels=a0a0b0&stroke=e2c27d&dates=a0a0b0&currStreakNum=e2c27d&sideNums=e2c27d" />
 
 </div>
 
 <div align="center">
 
-|  | Achievement | Detail |
-|:---:|:---|:---|
-| 🏅 | **MERN Certified Developer** | Full Stack Web Development — Programming Hero |
-| 🎓 | **Batch 12 Graduate** | Completed intensive bootcamp with real-world projects |
-| 🚀 | **15+ Projects Shipped** | From landing pages to full e-commerce systems |
-| 🛒 | **BazarBD Platform** | Next.js + MongoDB full e-commerce build in progress |
-| 🤝 | **Open Source Contributor** | Active and growing contributions in 2025 |
-| ☕ | **Daily Coder** | Consistent commits, consistent growth |
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbabu07&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=e2c27d&text_color=a0a0b0&langs_count=10" />
 
 </div>
 
@@ -191,16 +163,61 @@ const jahedul: Developer = {
 
 ---
 
+## ◈ Contribution Activity
+
 <div align="center">
 
-## 🐍 Contribution Snake Animation
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrbabu07&bg_color=0d0d1a&color=e2c27d&line=e2c27d&point=ffffff&area=true&area_color=e2c27d&hide_border=true" />
+
+</div>
+
+<br/>
+
+---
+
+## ◈ Milestones
+
+<div align="center">
+
+| &nbsp; | Achievement | Detail |
+|:------:|:------------|:-------|
+| 🏅 | **MERN Stack Certified** | Full Stack Web Dev Certification — Programming Hero |
+| 🎓 | **Batch 12 Graduate** | Completed intensive bootcamp with real-world project delivery |
+| 🚀 | **15+ Projects Shipped** | Ranging from pixel-perfect UIs to full e-commerce systems |
+| 🛒 | **BazarBD** | Production-level Next.js e-commerce platform in progress |
+| 🤝 | **Open Source** | Active and growing contributions throughout 2025 |
+| ☕ | **Daily Coder** | Consistent commits, consistent growth, every single day |
+
+</div>
+
+<br/>
+
+---
+
+## ◈ Contribution Snake
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrbabu07/mrbabu07/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrbabu07/mrbabu07/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mrbabu07/mrbabu07/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/mrbabu07/mrbabu07/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
+> ⚙️ Snake not visible? Add the [Platane/snk GitHub Action](https://github.com/Platane/snk) workflow to auto-generate the SVG on a schedule.
+
+</div>
+
+<br/>
+
+---
+
+## ◈ A Thought
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 </div>
 
 <br/>
@@ -209,45 +226,26 @@ const jahedul: Developer = {
 
 <div align="center">
 
-## 💬 Dev Quote of the Day
+## ◈ Let's Build Something Together
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+*I'm always open to meaningful projects, creative collaborations,*
+*and great conversations about technology and craft.*
+
+<br/>
+
+[![Email](https://img.shields.io/badge/✉%20mdjahedulislamjaved%40gmail.com-%230a0a0a?style=for-the-badge&logoColor=e2c27d)](mailto:mdjahedulislamjaved@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230a0a0a?style=for-the-badge&logo=linkedin&logoColor=e2c27d)](https://www.linkedin.com/in/md-jahedul-islam37/)
+
+[![Portfolio](https://img.shields.io/badge/View%20GitHub%20Portfolio-%230a0a0a?style=for-the-badge&logo=github&logoColor=e2c27d)](https://github.com/mrbabu07)
+
+<br/>
+<br/>
+
+*"Simplicity is the soul of efficiency."*
+
+<br/>
 
 </div>
 
-<br/>
-
----
-
-<div align="center">
-
-## 📬 Let's Connect & Collaborate
-
-> 💡 I'm always open to interesting projects, collaborations, and great conversations about tech.
-
-**📧** [mdjahedulislamjaved@gmail.com](mailto:mdjahedulislamjaved@gmail.com)  
-**💼** [linkedin.com/in/md-jahedul-islam37](https://www.linkedin.com/in/md-jahedul-islam37/)  
-**🐙** [github.com/mrbabu07](https://github.com/mrbabu07)
-
-<br/>
-
-*"First, solve the problem. Then, write the code."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks+for+visiting!+%E2%AD%90+Star+some+repos!&fontSize=18&fontColor=A78BFA&animation=twinkling&fontAlignY=65"/>
-
-</div>
-```
-
----
-
-Here's a summary of the key fixes made:
-
-**Typing SVG** — The emoji characters in the `lines=` parameter were causing issues. Replaced them with proper URL-encoded versions (`%E2%9A%A1` for ⚡, `%F0%9F%9B%92` for 🛒, etc.) and wrapped it in an `<a>` tag for reliability.
-
-**Streak Stats** — Changed from `streak-stats.herokuapp.com` (deprecated/unreliable) to `streak-stats.demolab.com`, which is the official maintained domain.
-
-**Footer text** — The `⭐` emoji in the capsule-render footer URL was unencoded; replaced with `%E2%AD%90`.
-
-**Snake animation** — This requires a GitHub Actions workflow to generate the SVG files. If it's not showing, make sure you have the `.github/workflows/snake.yml` workflow set up in your repo — without it, the output SVG files won't exist.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,50:1a1a2e,100:0a0a0a&height=60&section=footer&text=Crafted%20with%20precision%20%E2%80%94%20Md%20Jahedul%20Islam&fontSize=14&fontColor=e2c27d&animation=fadeIn&fontAlignY=50"/>
