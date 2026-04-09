@@ -7,7 +7,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=⚡+Building+Scalable+Web+Applications;🛒+Crafting+BazarBD+E-commerce+Platform;🌱+Mastering+Advanced+Next.js+%26+MERN;🎯+Turning+Coffee+into+Code+Since+Batch+12" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Building+Scalable+Web+Applications;%F0%9F%9B%92+Crafting+BazarBD+E-commerce+Platform;%F0%9F%8C%B1+Mastering+Advanced+Next.js+%26+MERN;%F0%9F%8E%AF+Turning+Coffee+into+Code+Since+Batch+12" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
@@ -43,7 +45,7 @@ const jahedul: Developer = {
   funFact:   "I debug with console.log and I'm NOT ashamed 😄",
   superpower:"Turning ☕ into elegant, scalable code",
 };
-```
+` ` `
 
 <br/>
 
@@ -147,7 +149,7 @@ const jahedul: Developer = {
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=mrbabu07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=A78BFA" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mrbabu07&theme=tokyonight&hide_border=true&background=0f0c29&ring=A78BFA&fire=f97316&currStreakLabel=A78BFA&sideLabels=A78BFA&stroke=A78BFA" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=mrbabu07&theme=tokyonight&hide_border=true&background=0f0c29&ring=A78BFA&fire=f97316&currStreakLabel=A78BFA&sideLabels=A78BFA&stroke=A78BFA" />
 </div>
 
 <div align="center">
@@ -233,6 +235,19 @@ const jahedul: Developer = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks+for+visiting!+⭐+Star+some+repos!&fontSize=18&fontColor=A78BFA&animation=twinkling&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks+for+visiting!+%E2%AD%90+Star+some+repos!&fontSize=18&fontColor=A78BFA&animation=twinkling&fontAlignY=65"/>
 
 </div>
+```
+
+---
+
+Here's a summary of the key fixes made:
+
+**Typing SVG** — The emoji characters in the `lines=` parameter were causing issues. Replaced them with proper URL-encoded versions (`%E2%9A%A1` for ⚡, `%F0%9F%9B%92` for 🛒, etc.) and wrapped it in an `<a>` tag for reliability.
+
+**Streak Stats** — Changed from `streak-stats.herokuapp.com` (deprecated/unreliable) to `streak-stats.demolab.com`, which is the official maintained domain.
+
+**Footer text** — The `⭐` emoji in the capsule-render footer URL was unencoded; replaced with `%E2%AD%90`.
+
+**Snake animation** — This requires a GitHub Actions workflow to generate the SVG files. If it's not showing, make sure you have the `.github/workflows/snake.yml` workflow set up in your repo — without it, the output SVG files won't exist.
