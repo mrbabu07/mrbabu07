@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a1a2e,100:16213e&height=180&section=header&text=Md%20Jahedul%20Islam&fontSize=54&fontColor=e2c27d&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20MERN%20Developer&descSize=18&descAlignY=68&descColor=a0a0b0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:1a1a2e,100:16213e&height=180&section=header&text=Md%20Jahedul%20Islam&fontSize=54&fontColor=e2c27d&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer&descSize=18&descAlignY=68&descColor=a0a0b0"/>
 
 </div>
 
@@ -43,7 +43,7 @@
 │                                                             │
 │   const developer = {                                       │
 │     name     : "Md Jahedul Islam",                          │
-│     role     : "Full Stack MERN Developer",                 │
+│     role     : "Full Stack Developer",                 │
 │     location : "Chittagong, Bangladesh  🇧🇩",              │
 │     education: "Programming Hero — Batch 12",               │
 │     flagship : "BazarBD E-commerce Platform",               │
