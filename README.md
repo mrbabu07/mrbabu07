@@ -22,11 +22,11 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=mrbabu07&color=e2c27d&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=mrbabu07&color=e2c27d&style=flat-square&label=Profile+Views)
 &nbsp;
-![](https://img.shields.io/badge/Status-Open%20to%20Collaborate-e2c27d?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborate-e2c27d?style=flat-square)
 &nbsp;
-![](https://img.shields.io/badge/Based%20in-Chittagong%2C%20Bangladesh-e2c27d?style=flat-square)
+![Location](https://img.shields.io/badge/Based%20in-Chittagong%2C%20Bangladesh-e2c27d?style=flat-square)
 
 </div>
 
@@ -42,13 +42,14 @@
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
 │   const developer = {                                       │
-│     name     : "Md Jahedul Islam",                          │
-│     role     : "Full Stack Developer",                 │
-│     location : "Chittagong, Bangladesh  🇧🇩",              │
-│     education: "Programming Hero — Batch 12",               │
-│     flagship : "BazarBD E-commerce Platform",               │
-│     available: true,   // open to work & collaborations     │
-│     passion  : "Turning ideas into elegant products",       │
+│     name      : "Md Jahedul Islam",                         │
+│     role      : "Full Stack Developer",                     │
+│     location  : "Chittagong, Bangladesh  🇧🇩",             │
+│     university: "Premier University Chittagong  🎓",        │
+│     bootcamp  : "Programming Hero — Batch 12",              │
+│     flagship  : "BazarBD E-commerce Platform",              │
+│     available : true,   // open to work & collaborations    │
+│     passion   : "Turning ideas into elegant products",      │
 │   };                                                        │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
@@ -67,13 +68,14 @@
 <td width="50%" valign="top">
 
 **🔭 &nbsp;Building**
-> **BazarBD** — A production-grade e-commerce platform featuring authentication, shopping cart, checkout flow, and a full admin panel. Stack: Next.js · MongoDB · Express · JWT
+> **BazarBD** — A production-grade e-commerce platform featuring authentication, shopping cart, checkout flow, and a full admin panel.
+> Stack: Next.js · MongoDB · Express · JWT
 
 </td>
 <td width="50%" valign="top">
 
 **🌱 &nbsp;Mastering**
-> **Advanced Next.js** — App Router architecture, React Server Components, ISR & SSR optimization strategies, and edge-ready performance patterns
+> **Advanced Next.js** — App Router architecture, React Server Components, ISR & SSR optimization strategies, and edge-ready performance patterns.
 
 </td>
 </tr>
@@ -88,6 +90,31 @@
 
 **🎯 &nbsp;2025 Vision**
 > Ship a SaaS product to production · Contribute to major open-source repos · Mentor early-stage developers in the community
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## ◈ Education
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🎓 &nbsp;Premier University Chittagong**
+> Bachelor's Degree — Chittagong, Bangladesh
+> Currently Enrolled
+
+</td>
+<td width="50%" valign="top">
+
+**🏅 &nbsp;Programming Hero — Batch 12**
+> MERN Stack Web Development Bootcamp
+> Full Stack Certification — Completed
 
 </td>
 </tr>
@@ -181,8 +208,9 @@
 
 | &nbsp; | Achievement | Detail |
 |:------:|:------------|:-------|
+| 🎓 | **Premier University Chittagong** | Currently pursuing Bachelor's Degree — Chittagong, BD |
 | 🏅 | **MERN Stack Certified** | Full Stack Web Dev Certification — Programming Hero |
-| 🎓 | **Batch 12 Graduate** | Completed intensive bootcamp with real-world project delivery |
+| 📚 | **Batch 12 Graduate** | Completed intensive bootcamp with real-world project delivery |
 | 🚀 | **15+ Projects Shipped** | Ranging from pixel-perfect UIs to full e-commerce systems |
 | 🛒 | **BazarBD** | Production-level Next.js e-commerce platform in progress |
 | 🤝 | **Open Source** | Active and growing contributions throughout 2025 |
