@@ -1,6 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e0,50:ffecb3,100:c8e6c9&height=220&section=header&text=Md%20Jahedul%20Islam&fontSize=52&fontColor=7b5e7b&animation=twinkling&fontAlignY=38&desc=✦%20Full%20Stack%20Developer%20✦&descSize=18&descAlignY=60&descColor=9e7bb5"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,30:FFE66D,60:4ECDC4,100:45B7D1&height=250&section=header&text=Md%20Jahedul%20Islam&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=⚡%20Full%20Stack%20Developer%20⚡&descSize=20&descAlignY=62&descColor=FFE66D"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=🔥+Full+Stack+Developer+from+Bangladesh;⚡+MERN+Stack+%7C+Next.js+%7C+MongoDB;🚀+Building+BazarBD+%26+Amiyo-Go;💡+Turning+ideas+into+real+products;🤝+Open+to+Collabs+%26+Freelance)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,27 +14,19 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=19&duration=3500&pause=1500&color=9E7BB5&center=true&vCenter=true&width=620&lines=Crafting+warm%2C+beautiful+web+experiences+%F0%9F%8C%B8;Building+BazarBD+%E2%80%94+an+E-commerce+Platform;Next.js+%C2%B7+MongoDB+%C2%B7+Express+%C2%B7+React;Open+to+collabs+%26+freelance+%E2%9C%A8)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffd6e0?style=for-the-badge&logo=linkedin&logoColor=7b5e7b)](https://www.linkedin.com/in/md-jahedul-islam37/)
-[![Gmail](https://img.shields.io/badge/Gmail-ffecb3?style=for-the-badge&logo=gmail&logoColor=7b5e7b)](mailto:mdjahedulislamjaved@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-c8e6c9?style=for-the-badge&logo=github&logoColor=7b5e7b)](https://github.com/mrbabu07)
-[![Facebook](https://img.shields.io/badge/Facebook-ffd6e0?style=for-the-badge&logo=facebook&logoColor=7b5e7b)](https://www.facebook.com/jahedulislam.mdjabed)
-[![Instagram](https://img.shields.io/badge/Instagram-ffecb3?style=for-the-badge&logo=instagram&logoColor=7b5e7b)](https://www.instagram.com/md_jabed_ig/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jahedul-islam37/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdjahedulislamjaved@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrbabu07)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jahedulislam.mdjabed)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md_jabed_ig/)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mrbabu07&color=9e7bb5&style=flat-square&label=✿%20Visitors)
+![Profile Views](https://komarev.com/ghpvc/?username=mrbabu07&color=FF6B6B&style=flat-square&label=👁️+Visitors)
 &nbsp;
-![Status](https://img.shields.io/badge/✦%20Status-Open%20to%20Collaborate-f4b8d4?style=flat-square)
+![Status](https://img.shields.io/badge/⚡_Status-Open_to_Work-FFE66D?style=flat-square&labelColor=333)
 &nbsp;
-![Location](https://img.shields.io/badge/🌸%20Based%20in-Chittagong%2C%20Bangladesh-c8e6c9?style=flat-square)
+![Location](https://img.shields.io/badge/📍_Based_in-Chittagong%2C_BD-4ECDC4?style=flat-square&labelColor=333)
 
 </div>
 
@@ -36,63 +34,61 @@
 
 ---
 
-<br/>
+## 🧑‍💻 About Me
 
-<div align="center">
-
+```javascript
+const mrbabu07 = {
+  name        : "Md Jahedul Islam",
+  alias       : "mrbabu07",
+  role        : "Full Stack Developer",
+  location    : "Chittagong, Bangladesh 🇧🇩",
+  university  : "Premier University Chittagong 🎓",
+  bootcamp    : "Programming Hero — Batch 12 🏅",
+  building    : ["BazarBD (E-commerce)", "Amiyo-Go (Multi-vendor Marketplace)"],
+  stack       : ["Next.js", "React", "Node.js", "Express", "MongoDB"],
+  available   : true,
+  motto       : "Ship fast. Build smart. Keep growing. 🚀"
+};
 ```
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  🌸  Hello, world! I'm Jahedul.                              │
-│                                                              │
-│     role      →  Full Stack Developer                        │
-│     location  →  Chittagong, Bangladesh  🇧🇩               │
-│     university→  Premier University Chittagong  🎓           │
-│     bootcamp  →  Programming Hero — Batch 12  🏅             │
-│     building  →  BazarBD E-commerce Platform  🛒             │
-│     available →  true   ✦ open to work & collabs             │
-│     passion   →  Turning ideas into gentle, great products   │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
-</div>
 
 <br/>
 
 ---
 
-<br/>
-
-## 🌷 &nbsp;What I'm Up To
+## 🚀 What I'm Working On
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🔭 &nbsp;Crafting
-**BazarBD** — A full production-grade e-commerce platform with auth, cart, checkout & admin panel.
+### 🛒 BazarBD
+Production-grade e-commerce platform with full auth, cart, checkout & admin panel.
+
 `Next.js` · `MongoDB` · `Express` · `JWT`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌱 &nbsp;Growing
-**Advanced Next.js** — App Router, React Server Components, ISR & SSR optimization, and edge-ready performance patterns.
+### 🏪 Amiyo-Go
+Multi-vendor marketplace ecosystem with real-time delivery tracking & analytics.
+
+`Next.js` · `Socket.IO` · `BullMQ` · `MongoDB`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤝 &nbsp;Available For
-Full-stack projects · E-commerce · SaaS MVPs · Open source · Freelance opportunities
+### 📦 Amiyo Delivery
+Local logistics sub-platform with live tracking using OpenStreetMap & Leaflet.
+
+`Node.js` · `Leaflet` · `OpenStreetMap` · `Socket.IO`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 &nbsp;2025 Dreams
-Ship a SaaS to production · Contribute to major OSS · Mentor early-stage developers
+### 🎯 2025 Goals
+Ship SaaS to production · Contribute to major OSS · Mentor early-stage devs · Go global 🌍
 
 </td>
 </tr>
@@ -102,24 +98,23 @@ Ship a SaaS to production · Contribute to major OSS · Mentor early-stage devel
 
 ---
 
-<br/>
-
-## 🎀 &nbsp;Education
+## 🎓 Education
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 &nbsp;Premier University Chittagong
-Bachelor's Degree — Chittagong, Bangladesh
+### 🏛️ Premier University Chittagong
+**Bachelor's Degree**
+Chittagong, Bangladesh
 Currently Enrolled
 
 </td>
 <td width="50%" valign="top">
 
-### 🏅 &nbsp;Programming Hero — Batch 12
-MERN Stack Web Development Bootcamp
-Full Stack Certification — Completed ✓
+### 🏅 Programming Hero — Batch 12
+**MERN Stack Web Development**
+Full Stack Certification — Completed ✅
 
 </td>
 </tr>
@@ -129,48 +124,42 @@ Full Stack Certification — Completed ✓
 
 ---
 
-<br/>
-
-## 🎨 &nbsp;My Toolkit
+## ⚡ Tech Stack
 
 <div align="center">
 
-**✦ &nbsp;Frontend &nbsp;✦**
+**— Frontend —**
 
-![React](https://img.shields.io/badge/React-ffd6e0?style=for-the-badge&logo=react&logoColor=7b5e7b)
-![Next.js](https://img.shields.io/badge/Next.js-f8d7e3?style=for-the-badge&logo=nextdotjs&logoColor=7b5e7b)
-![TypeScript](https://img.shields.io/badge/TypeScript-ffecb3?style=for-the-badge&logo=typescript&logoColor=7b5e7b)
-![JavaScript](https://img.shields.io/badge/JavaScript-fff9c4?style=for-the-badge&logo=javascript&logoColor=7b5e7b)
-![Vue.js](https://img.shields.io/badge/Vue.js-c8e6c9?style=for-the-badge&logo=vuedotjs&logoColor=7b5e7b)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-b2dfdb?style=for-the-badge&logo=tailwind-css&logoColor=7b5e7b)
-![HTML5](https://img.shields.io/badge/HTML5-ffd6e0?style=for-the-badge&logo=html5&logoColor=7b5e7b)
-![CSS3](https://img.shields.io/badge/CSS3-bbdefb?style=for-the-badge&logo=css3&logoColor=7b5e7b)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-e1bee7?style=for-the-badge&logo=bootstrap&logoColor=7b5e7b)
-![Material UI](https://img.shields.io/badge/MUI-b3e5fc?style=for-the-badge&logo=mui&logoColor=7b5e7b)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <br/>
 
-**✦ &nbsp;Backend & Data &nbsp;✦**
+**— Backend & Database —**
 
-![Node.js](https://img.shields.io/badge/Node.js-c8e6c9?style=for-the-badge&logo=nodedotjs&logoColor=7b5e7b)
-![Express.js](https://img.shields.io/badge/Express.js-dcedc8?style=for-the-badge&logo=express&logoColor=7b5e7b)
-![MongoDB](https://img.shields.io/badge/MongoDB-c8e6c9?style=for-the-badge&logo=mongodb&logoColor=7b5e7b)
-![MySQL](https://img.shields.io/badge/MySQL-bbdefb?style=for-the-badge&logo=mysql&logoColor=7b5e7b)
-![Firebase](https://img.shields.io/badge/Firebase-ffecb3?style=for-the-badge&logo=firebase&logoColor=7b5e7b)
-![JWT](https://img.shields.io/badge/JWT-f8d7e3?style=for-the-badge&logo=jsonwebtokens&logoColor=7b5e7b)
-![PHP](https://img.shields.io/badge/PHP-e1bee7?style=for-the-badge&logo=php&logoColor=7b5e7b)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 <br/>
 
-**✦ &nbsp;Tools & Workflow &nbsp;✦**
+**— Tools & Workflow —**
 
-![Git](https://img.shields.io/badge/Git-ffd6e0?style=for-the-badge&logo=git&logoColor=7b5e7b)
-![GitHub](https://img.shields.io/badge/GitHub-f0f0f0?style=for-the-badge&logo=github&logoColor=7b5e7b)
-![VS Code](https://img.shields.io/badge/VS%20Code-bbdefb?style=for-the-badge&logo=visualstudiocode&logoColor=7b5e7b)
-![Postman](https://img.shields.io/badge/Postman-ffccbc?style=for-the-badge&logo=postman&logoColor=7b5e7b)
-![Figma](https://img.shields.io/badge/Figma-ffd6e0?style=for-the-badge&logo=figma&logoColor=7b5e7b)
-![Linux](https://img.shields.io/badge/Linux-fff9c4?style=for-the-badge&logo=linux&logoColor=7b5e7b)
-![Python](https://img.shields.io/badge/Python-c5cae9?style=for-the-badge&logo=python&logoColor=7b5e7b)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -178,20 +167,16 @@ Full Stack Certification — Completed ✓
 
 ---
 
-<br/>
-
-## 🌸 &nbsp;GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrbabu07&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=fff9fb&title_color=9e7bb5&icon_color=f4b8d4&text_color=7b5e7b&ring_color=f4b8d4" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=mrbabu07&hide_border=true&background=fff9fb&ring=f4b8d4&fire=9e7bb5&currStreakLabel=9e7bb5&sideLabels=b89bb5&stroke=f4d1e0&dates=b89bb5&currStreakNum=9e7bb5&sideNums=9e7bb5" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrbabu07&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=FF6B6B&icon_color=FFE66D&text_color=4ECDC4&ring_color=FF6B6B" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=mrbabu07&hide_border=true&background=0d1117&ring=FF6B6B&fire=FFE66D&currStreakLabel=4ECDC4&sideLabels=4ECDC4&stroke=FF6B6B&dates=888&currStreakNum=FF6B6B&sideNums=FFE66D" />
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbabu07&layout=compact&hide_border=true&bg_color=fff9fb&title_color=9e7bb5&text_color=7b5e7b&langs_count=10" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbabu07&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF6B6B&text_color=4ECDC4&langs_count=10" />
 
 </div>
 
@@ -199,13 +184,11 @@ Full Stack Certification — Completed ✓
 
 ---
 
-<br/>
-
-## 🌿 &nbsp;Contribution Activity
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrbabu07&bg_color=fff9fb&color=9e7bb5&line=f4b8d4&point=9e7bb5&area=true&area_color=ffd6e0&hide_border=true" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrbabu07&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -213,21 +196,11 @@ Full Stack Certification — Completed ✓
 
 ---
 
-<br/>
-
-## ✨ &nbsp;Milestones
+## 🌿 Contribution Graph
 
 <div align="center">
 
-| &nbsp; | Achievement | Detail |
-|:------:|:------------|:-------|
-| 🌸 | **Premier University Chittagong** | Pursuing Bachelor's Degree — Chittagong, BD |
-| 🏅 | **MERN Stack Certified** | Full Stack Web Dev — Programming Hero |
-| 📖 | **Batch 12 Graduate** | Completed intensive bootcamp with real-world projects |
-| 🚀 | **15+ Projects Shipped** | From pixel-perfect UIs to full e-commerce systems |
-| 🛒 | **BazarBD** | Production-level Next.js e-commerce platform in progress |
-| 🤝 | **Open Source** | Active and growing contributions throughout 2025 |
-| ☀️ | **Daily Coder** | Consistent commits, consistent growth, every single day |
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrbabu07&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=FFE66D&area=true&area_color=FF6B6B&hide_border=true" />
 
 </div>
 
@@ -235,9 +208,7 @@ Full Stack Certification — Completed ✓
 
 ---
 
-<br/>
-
-## 🦋 &nbsp;Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -253,9 +224,28 @@ Full Stack Certification — Completed ✓
 
 ---
 
+## 🏅 Milestones
+
+<div align="center">
+
+| | Achievement | Detail |
+|:---:|:---|:---|
+| 🎓 | **Premier University Chittagong** | Pursuing Bachelor's Degree |
+| 🏅 | **MERN Stack Certified** | Programming Hero — Batch 12 |
+| 🚀 | **15+ Projects Shipped** | From UIs to full e-commerce systems |
+| 🛒 | **BazarBD** | Production Next.js e-commerce platform |
+| 🏪 | **Amiyo-Go** | Multi-vendor marketplace ecosystem |
+| 📦 | **Amiyo Delivery** | Local logistics platform with live tracking |
+| ⚡ | **Daily Coder** | Consistent commits, consistent growth |
+| 🤝 | **Open Source** | Active contributions throughout 2025 |
+
+</div>
+
 <br/>
 
-## 🌻 &nbsp;A Little Thought
+---
+
+## 💬 Random Dev Quote
 
 <div align="center">
 
@@ -267,30 +257,26 @@ Full Stack Certification — Completed ✓
 
 ---
 
-<br/>
-
 <div align="center">
 
-## 🌺 &nbsp;Let's Create Something Wonderful
+## 🤝 Let's Build Something Great
 
-*I'm always open to meaningful projects, warm collaborations,*
-*and great conversations about technology, design, and craft.*
-
-<br/>
-
-[![Email](https://img.shields.io/badge/✉%20mdjahedulislamjaved%40gmail.com-ffd6e0?style=for-the-badge&logoColor=7b5e7b)](mailto:mdjahedulislamjaved@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-ffecb3?style=for-the-badge&logo=linkedin&logoColor=7b5e7b)](https://www.linkedin.com/in/md-jahedul-islam37/)
-
-[![Portfolio](https://img.shields.io/badge/View%20GitHub%20Portfolio-c8e6c9?style=for-the-badge&logo=github&logoColor=7b5e7b)](https://github.com/mrbabu07)
+*Open to full-stack projects · E-commerce · SaaS MVPs · Open source · Freelance*
 
 <br/>
-<br/>
 
-*"Small things done with great love change the world."* 🌸
+[![Email](https://img.shields.io/badge/📧_mdjahedulislamjaved@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdjahedulislamjaved@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jahedul-islam37/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/GitHub_Portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrbabu07)
+
+<br/><br/>
+
+*"Code is not just syntax — it's the language of ideas made real."* ⚡
 
 <br/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c8e6c9,50:ffecb3,100:ffd6e0&height=120&section=footer&text=Made%20with%20%E2%80%A2%20care%20%E2%80%A2%20by%20Md%20Jahedul%20Islam&fontSize=14&fontColor=9e7bb5&animation=twinkling&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:45B7D1,30:4ECDC4,60:FFE66D,100:FF6B6B&height=150&section=footer&text=Made%20with%20⚡%20by%20mrbabu07&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
