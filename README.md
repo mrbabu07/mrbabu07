@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=🔥+Full+Stack+Developer+from+Bangladesh;⚡+MERN+Stack+%7C+Next.js+%7C+MongoDB;🚀+Building+BazarBD+%26+Amiyo-Go;💡+Turning+ideas+into+real+products;🤝+Open+to+Collabs+%26+Freelance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=🔥+Full+Stack+Developer+from+Bangladesh;⚡+MERN+Stack+%7C+Next.js+%7C+MongoDB;🗄️+PostgreSQL+%7C+Prisma+ORM+%7C+Redis;🚀+Building+BazarBD+%26+Amiyo-Go;💡+Turning+ideas+into+real+products;🤝+Open+to+Collabs+%26+Freelance)](https://git.io/typing-svg)
 
 </div>
 
@@ -45,7 +45,7 @@ const mrbabu07 = {
   university  : "Premier University Chittagong 🎓",
   bootcamp    : "Programming Hero — Batch 12 🏅",
   building    : ["BazarBD (E-commerce)", "Amiyo-Go (Multi-vendor Marketplace)"],
-  stack       : ["Next.js", "React", "Node.js", "Express", "MongoDB"],
+  stack       : ["Next.js", "React", "Node.js", "Express", "MongoDB", "PostgreSQL", "Prisma"],
   available   : true,
   motto       : "Ship fast. Build smart. Keep growing. 🚀"
 };
@@ -72,7 +72,7 @@ Production-grade e-commerce platform with full auth, cart, checkout & admin pane
 ### 🏪 Amiyo-Go
 Multi-vendor marketplace ecosystem with real-time delivery tracking & analytics.
 
-`Next.js` · `Socket.IO` · `BullMQ` · `MongoDB`
+`Next.js` · `Socket.IO` · `BullMQ` · `PostgreSQL` · `Prisma`
 
 </td>
 </tr>
@@ -82,7 +82,7 @@ Multi-vendor marketplace ecosystem with real-time delivery tracking & analytics.
 ### 📦 Amiyo Delivery
 Local logistics sub-platform with live tracking using OpenStreetMap & Leaflet.
 
-`Node.js` · `Leaflet` · `OpenStreetMap` · `Socket.IO`
+`Node.js` · `Leaflet` · `OpenStreetMap` · `Socket.IO` · `Prisma`
 
 </td>
 <td width="50%" valign="top">
@@ -145,7 +145,10 @@ Full Stack Certification — Completed ✅
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
@@ -236,6 +239,7 @@ Full Stack Certification — Completed ✅
 | 🛒 | **BazarBD** | Production Next.js e-commerce platform |
 | 🏪 | **Amiyo-Go** | Multi-vendor marketplace ecosystem |
 | 📦 | **Amiyo Delivery** | Local logistics platform with live tracking |
+| 🗄️ | **PostgreSQL + Prisma** | Type-safe relational DB in production stacks |
 | ⚡ | **Daily Coder** | Consistent commits, consistent growth |
 | 🤝 | **Open Source** | Active contributions throughout 2025 |
 
