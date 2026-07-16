@@ -34,65 +34,82 @@
 
 ---
 
-## 🧑‍💻 About Me
+### 📑 Table of Contents
+[Quick Facts](#-quick-facts) • [About Me](#-about-me) • [Featured Projects](#-featured-projects) • [Education](#-education) • [Tech Stack](#-tech-stack) • [GitHub Stats](#-github-stats) • [Trophies](#-github-trophies) • [Milestones](#-milestones) • [Let's Connect](#-lets-build-something-great)
 
-```javascript
-const mrbabu07 = {
-  name        : "Md Jahedul Islam",
-  alias       : "mrbabu07",
-  role        : "Full Stack Developer",
-  location    : "Chittagong, Bangladesh 🇧🇩",
-  university  : "Premier University Chittagong 🎓",
-  bootcamp    : "Programming Hero — Batch 12 🏅",
-  building    : ["BazarBD (E-commerce)", "Amiyo-Go (Multi-vendor Marketplace)"],
-  stack       : ["Next.js", "React", "Node.js", "Express", "MongoDB", "PostgreSQL", "Prisma"],
-  available   : true,
-  motto       : "Ship fast. Build smart. Keep growing. 🚀"
-};
-```
+---
+
+## ⚡ Quick Facts
+
+- 🔭 I'm currently building **Amiyo-Go** — a multi-vendor marketplace ecosystem for Bangladesh
+- 🌱 I'm currently sharpening **TypeScript, PostgreSQL & Prisma ORM v7** in production stacks
+- 👯 I'm looking to collaborate on **e-commerce, marketplace & real-time logistics** projects
+- 💬 Ask me about **MERN stack, Next.js, or building for the Bangladesh market**
+- 📫 Reach me at **mdjahedulislamjaved@gmail.com**
+- ⚡ Fun fact: I ship features faster with **AI-agent-driven workflows** (Codex CLI)
 
 <br/>
 
 ---
 
-## 🚀 What I'm Working On
+## 🧑‍💻 About Me
+
+I'm a full-stack developer from Chittagong, Bangladesh, currently pursuing my B.Sc. in Computer Science & Engineering at **Premier University Chittagong**, alongside a MERN Stack certification from **Programming Hero (Batch 12)**. I like turning real-world problems — marketplaces, delivery logistics, community platforms — into working products, end to end: schema design, API, auth, payments, and UI.
+
+<details>
+<summary><strong>🗒️ More about my journey (click to expand)</strong></summary>
+<br/>
+
+- Started with core MERN (React, Node.js, Express, MongoDB) and have since grown into TypeScript, PostgreSQL, Prisma, and Next.js 14
+- Built production-style backend systems with real payment integration (Stripe) and role-based access control
+- Comfortable working across the Bangladesh market context — multi-currency, bKash/Tabby/Tamara-style payment flows, and Bengali-language interfaces
+- Prefer an AI-agent-assisted workflow (Codex CLI) for scaling implementation without sacrificing code quality
+- Currently expanding into real-time systems — Socket.IO-based live delivery tracking with Leaflet/OpenStreetMap
+
+</details>
+
+<br/>
+
+---
+
+## 🚀 Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 BazarBD
+**🛒 [BazarBD](https://github.com/mrbabu07)**
 Production-grade e-commerce platform with full auth, cart, checkout & admin panel.
-
-`Next.js` · `MongoDB` · `Express` · `JWT`
+`Next.js` `MongoDB` `Express` `JWT`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏪 Amiyo-Go
+**🏪 [Amiyo-Go](https://github.com/mrbabu07)**
 Multi-vendor marketplace ecosystem with real-time delivery tracking & analytics.
-
-`Next.js` · `Socket.IO` · `BullMQ` · `PostgreSQL` · `Prisma`
+`Next.js` `Socket.IO` `BullMQ` `PostgreSQL` `Prisma`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📦 Amiyo Delivery
+**📦 [Amiyo Delivery](https://github.com/mrbabu07)**
 Local logistics sub-platform with live tracking using OpenStreetMap & Leaflet.
-
-`Node.js` · `Leaflet` · `OpenStreetMap` · `Socket.IO` · `Prisma`
+`Node.js` `Leaflet` `OpenStreetMap` `Socket.IO` `Prisma`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 2025 Goals
-Ship SaaS to production · Contribute to major OSS · Mentor early-stage devs · Go global 🌍
+**🏠 [RentNest](https://github.com/mrbabu07)**
+Rental property marketplace API with real Stripe payments & type-safe backend.
+`TypeScript` `Prisma v7` `PostgreSQL` `Stripe`
 
 </td>
 </tr>
 </table>
+
+> 
 
 <br/>
 
@@ -105,8 +122,8 @@ Ship SaaS to production · Contribute to major OSS · Mentor early-stage devs ·
 <td width="50%" valign="top">
 
 ### 🏛️ Premier University Chittagong
-**Bachelor's Degree**
-Chittagong, Bangladesh
+**B.Sc. in Computer Science & Engineering**
+Chittagong, Bangladesh — 6th Semester
 Currently Enrolled
 
 </td>
@@ -152,6 +169,7 @@ Full Stack Certification — Completed ✅
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 <br/>
 
@@ -221,6 +239,8 @@ Full Stack Certification — Completed ✅
   <img alt="contribution snake" src="https://raw.githubusercontent.com/mrbabu07/mrbabu07/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
+> ⚙️
+
 </div>
 
 <br/>
@@ -233,7 +253,7 @@ Full Stack Certification — Completed ✅
 
 | | Achievement | Detail |
 |:---:|:---|:---|
-| 🎓 | **Premier University Chittagong** | Pursuing Bachelor's Degree |
+| 🎓 | **Premier University Chittagong** | Pursuing B.Sc. in CSE |
 | 🏅 | **MERN Stack Certified** | Programming Hero — Batch 12 |
 | 🚀 | **15+ Projects Shipped** | From UIs to full e-commerce systems |
 | 🛒 | **BazarBD** | Production Next.js e-commerce platform |
@@ -241,7 +261,7 @@ Full Stack Certification — Completed ✅
 | 📦 | **Amiyo Delivery** | Local logistics platform with live tracking |
 | 🗄️ | **PostgreSQL + Prisma** | Type-safe relational DB in production stacks |
 | ⚡ | **Daily Coder** | Consistent commits, consistent growth |
-| 🤝 | **Open Source** | Active contributions throughout 2025 |
+| 🤝 | **Open Source** | Active contributions throughout the year |
 
 </div>
 
