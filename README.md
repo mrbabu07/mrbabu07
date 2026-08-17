@@ -1,119 +1,142 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,30:FFE66D,60:4ECDC4,100:45B7D1&height=250&section=header&text=Md%20Jahedul%20Islam&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=⚡%20Full%20Stack%20Developer%20⚡&descSize=20&descAlignY=62&descColor=FFE66D"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,30:203A43,60:2C5364,100:0F2027&height=280&section=header&text=Md%20Jahedul%20Islam&fontSize=56&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Bangladesh&descSize=18&descAlignY=58&descColor=F0F0F0"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=🔥+Full+Stack+Developer+from+Bangladesh;⚡+MERN+Stack+%7C+Next.js+%7C+MongoDB;🗄️+PostgreSQL+%7C+Prisma+ORM+%7C+Redis;🚀+Building+BazarBD+%26+Amiyo-Go;💡+Turning+ideas+into+real+products;🤝+Open+to+Collabs+%26+Freelance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=750&lines=Building+for+the+Bangladesh+market+%F0%9F%87%A7%F0%9F%87%A9;MERN+%E2%80%A2+Next.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Prisma;Shipping+BazarBD+%26+Amiyo-Go;Real-time+systems+%E2%80%A2+Sockets+%E2%80%A2+Live+tracking;Always+open+to+build+something+new)](https://git.io/typing-svg)
 
 </div>
+
+<br/>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/md-jahedul-islam37/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mdjahedulislamjaved@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/mrbabu07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.facebook.com/jahedulislam.mdjabed"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/md_jabed_ig/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mrbabu07&color=00F5D4&style=for-the-badge&label=PROFILE+VIEWS"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-2C5364?style=for-the-badge&labelColor=0F2027"/>
+&nbsp;
+<img src="https://img.shields.io/badge/BASED_IN-CHITTAGONG,_BD-203A43?style=for-the-badge&labelColor=0F2027"/>
+</p>
 
 <br/>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jahedul-islam37/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdjahedulislamjaved@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrbabu07)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jahedulislam.mdjabed)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md_jabed_ig/)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=mrbabu07&color=FF6B6B&style=flat-square&label=👁️+Visitors)
-&nbsp;
-![Status](https://img.shields.io/badge/⚡_Status-Open_to_Work-FFE66D?style=flat-square&labelColor=333)
-&nbsp;
-![Location](https://img.shields.io/badge/📍_Based_in-Chittagong%2C_BD-4ECDC4?style=flat-square&labelColor=333)
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:2C5364&height=2&width=900"/>
 </div>
 
-<br/>
-
----
-
-### 📑 Table of Contents
-[Quick Facts](#-quick-facts) • [About Me](#-about-me) • [Featured Projects](#-featured-projects) • [Education](#-education) • [Tech Stack](#-tech-stack) • [GitHub Stats](#-github-stats) • [Trophies](#-github-trophies) • [Milestones](#-milestones) • [Let's Connect](#-lets-build-something-great)
-
----
-
-## ⚡ Quick Facts
-
-- 🔭 I'm currently building **Amiyo-Go** — a multi-vendor marketplace ecosystem for Bangladesh
-- 🌱 I'm currently sharpening **TypeScript, PostgreSQL & Prisma ORM v7** in production stacks
-- 👯 I'm looking to collaborate on **e-commerce, marketplace & real-time logistics** projects
-- 💬 Ask me about **MERN stack, Next.js, or building for the Bangladesh market**
-- 📫 Reach me at **mdjahedulislamjaved@gmail.com**
-- ⚡ Fun fact: I ship features faster with **AI-agent-driven workflows** (Codex CLI)
+## 🧭 Navigation
+<p align="center">
+<a href="#-snapshot">Snapshot</a> ·
+<a href="#-about">About</a> ·
+<a href="#-projects">Projects</a> ·
+<a href="#-education">Education</a> ·
+<a href="#-stack">Stack</a> ·
+<a href="#-analytics">Analytics</a> ·
+<a href="#-connect">Connect</a>
+</p>
 
 <br/>
 
----
+## ⚡ Snapshot
 
-## 🧑‍💻 About Me
-
-I'm a full-stack developer from Chittagong, Bangladesh, currently pursuing my B.Sc. in Computer Science & Engineering at **Premier University Chittagong**, alongside a MERN Stack certification from **Programming Hero (Batch 12)**. I like turning real-world problems — marketplaces, delivery logistics, community platforms — into working products, end to end: schema design, API, auth, payments, and UI.
-
-<details>
-<summary><strong>🗒️ More about my journey (click to expand)</strong></summary>
-<br/>
-
-- Started with core MERN (React, Node.js, Express, MongoDB) and have since grown into TypeScript, PostgreSQL, Prisma, and Next.js 14
-- Built production-style backend systems with real payment integration (Stripe) and role-based access control
-- Comfortable working across the Bangladesh market context — multi-currency, bKash/Tabby/Tamara-style payment flows, and Bengali-language interfaces
-- Prefer an AI-agent-assisted workflow (Codex CLI) for scaling implementation without sacrificing code quality
-- Currently expanding into real-time systems — Socket.IO-based live delivery tracking with Leaflet/OpenStreetMap
-
-</details>
+```yaml
+role:         Full Stack Developer
+focus:        E-commerce · Marketplaces · Real-time Logistics
+currently:    Building Amiyo-Go (multi-vendor marketplace ecosystem)
+learning:     TypeScript · PostgreSQL · Prisma ORM v7 in production
+workflow:     AI-agent-assisted development (Codex CLI)
+contact:      mdjahedulislamjaved@gmail.com
+```
 
 <br/>
 
----
+## 👨‍💻 About
 
-## 🚀 Featured Projects
-
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-**🛒 [BazarBD](https://github.com/mrbabu07)**
-Production-grade e-commerce platform with full auth, cart, checkout & admin panel.
-`Next.js` `MongoDB` `Express` `JWT`
+I'm a full-stack developer from **Chittagong, Bangladesh**, pursuing my B.Sc. in Computer Science & Engineering at **Premier University Chittagong**, with a MERN Stack certification from **Programming Hero (Batch 12)**.
 
-</td>
-<td width="50%" valign="top">
+I like turning real problems — marketplaces, delivery logistics, community platforms — into working products end to end: schema design, API, auth, payments, and UI.
 
-**🏪 [Amiyo-Go](https://github.com/mrbabu07)**
-Multi-vendor marketplace ecosystem with real-time delivery tracking & analytics.
-`Next.js` `Socket.IO` `BullMQ` `PostgreSQL` `Prisma`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📦 [Amiyo Delivery](https://github.com/mrbabu07)**
-Local logistics sub-platform with live tracking using OpenStreetMap & Leaflet.
-`Node.js` `Leaflet` `OpenStreetMap` `Socket.IO` `Prisma`
+**What I bring:**
+- Production backend systems with real payment integration (Stripe)
+- Comfort with Bangladesh-market specifics — multi-currency, local payment flows, Bengali-language interfaces
+- Real-time systems: Socket.IO-based live delivery tracking with Leaflet/OpenStreetMap
+- An AI-agent-assisted workflow that scales implementation without sacrificing quality
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top" align="center">
 
-**🏠 [RentNest](https://github.com/mrbabu07)**
-Rental property marketplace API with real Stripe payments & type-safe backend.
-`TypeScript` `Prisma v7` `PostgreSQL` `Stripe`
+<img src="https://github-readme-stats.vercel.app/api?username=mrbabu07&show_icons=true&hide_border=true&bg_color=0F2027&title_color=00F5D4&icon_color=00F5D4&text_color=E0E0E0&ring_color=2C5364" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-> 
-
 <br/>
 
----
+## 🚀 Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 BazarBD
+Production-grade e-commerce platform — full auth, cart, checkout & admin panel.
+
+`Next.js` `MongoDB` `Express` `JWT`
+
+[View Repo →](https://github.com/mrbabu07)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏪 Amiyo-Go
+Multi-vendor marketplace ecosystem with real-time delivery tracking & analytics.
+
+`Next.js` `Socket.IO` `BullMQ` `PostgreSQL` `Prisma`
+
+[View Repo →](https://github.com/mrbabu07)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 Amiyo Delivery
+Local logistics sub-platform with live tracking via OpenStreetMap & Leaflet.
+
+`Node.js` `Leaflet` `Socket.IO` `Prisma`
+
+[View Repo →](https://github.com/mrbabu07)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 RentNest
+Rental property marketplace API with real Stripe payments & a type-safe backend.
+
+`TypeScript` `Prisma v7` `PostgreSQL` `Stripe`
+
+[View Repo →](https://github.com/mrbabu07)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🎓 Education
 
@@ -121,16 +144,15 @@ Rental property marketplace API with real Stripe payments & type-safe backend.
 <tr>
 <td width="50%" valign="top">
 
-### 🏛️ Premier University Chittagong
-**B.Sc. in Computer Science & Engineering**
-Chittagong, Bangladesh — 6th Semester
-Currently Enrolled
+**🏛️ Premier University Chittagong**
+B.Sc. in Computer Science & Engineering
+Chittagong, Bangladesh — 6th Semester (Ongoing)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏅 Programming Hero — Batch 12
-**MERN Stack Web Development**
+**🏅 Programming Hero — Batch 12**
+MERN Stack Web Development
 Full Stack Certification — Completed ✅
 
 </td>
@@ -139,95 +161,56 @@ Full Stack Certification — Completed ✅
 
 <br/>
 
----
-
-## ⚡ Tech Stack
+## 🛠 Stack
 
 <div align="center">
 
-**— Frontend —**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+**Frontend**
 <br/>
-
-**— Backend & Database —**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-
-<br/>
-
-**— Tools & Workflow —**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-<br/>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrbabu07&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=FF6B6B&icon_color=FFE66D&text_color=4ECDC4&ring_color=FF6B6B" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=mrbabu07&hide_border=true&background=0d1117&ring=FF6B6B&fire=FFE66D&currStreakLabel=4ECDC4&sideLabels=4ECDC4&stroke=FF6B6B&dates=888&currStreakNum=FF6B6B&sideNums=FFE66D" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css&theme=dark"/>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbabu07&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF6B6B&text_color=4ECDC4&langs_count=10" />
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,mysql,redis,firebase&theme=dark"/>
+
+<br/><br/>
+
+**Tools & Workflow**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark"/>
 
 </div>
 
 <br/>
 
----
-
-## 🏆 GitHub Trophies
+## 📊 Analytics
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrbabu07&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="49%" src="https://streak-stats.demolab.com/?user=mrbabu07&hide_border=true&background=0D1117&ring=2CE8C6&fire=FF6B6B&currStreakLabel=2CE8C6&sideLabels=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&stroke=2CE8C6"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrbabu07&bg_color=0D1117&color=2CE8C6&line=2CE8C6&point=FF6B6B&area=true&area_color=2CE8C6&hide_border=true&custom_title=Contribution%20Activity&title_color=FFFFFF"/>
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbabu07&layout=compact&hide_border=true&bg_color=0D1117&title_color=2CE8C6&text_color=FFFFFF&langs_count=8"/>
 
 </div>
 
 <br/>
 
----
+<br/>
 
-## 🌿 Contribution Graph
+## 🏆 Trophies
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrbabu07&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=FFE66D&area=true&area_color=FF6B6B&hide_border=true" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrbabu07&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <br/>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -239,13 +222,9 @@ Full Stack Certification — Completed ✅
   <img alt="contribution snake" src="https://raw.githubusercontent.com/mrbabu07/mrbabu07/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-> ⚙️
-
 </div>
 
 <br/>
-
----
 
 ## 🏅 Milestones
 
@@ -260,47 +239,33 @@ Full Stack Certification — Completed ✅
 | 🏪 | **Amiyo-Go** | Multi-vendor marketplace ecosystem |
 | 📦 | **Amiyo Delivery** | Local logistics platform with live tracking |
 | 🗄️ | **PostgreSQL + Prisma** | Type-safe relational DB in production stacks |
-| ⚡ | **Daily Coder** | Consistent commits, consistent growth |
-| 🤝 | **Open Source** | Active contributions throughout the year |
 
 </div>
 
 <br/>
 
----
-
-## 💬 Random Dev Quote
-
 <div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:2C5364&height=2&width=900"/>
 </div>
 
-<br/>
-
----
+## 🤝 Connect
 
 <div align="center">
-
-## 🤝 Let's Build Something Great
 
 *Open to full-stack projects · E-commerce · SaaS MVPs · Open source · Freelance*
 
 <br/>
 
-[![Email](https://img.shields.io/badge/📧_mdjahedulislamjaved@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdjahedulislamjaved@gmail.com)
+<a href="mailto:mdjahedulislamjaved@gmail.com"><img src="https://img.shields.io/badge/📧_mdjahedulislamjaved@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jahedul-islam37/)
+<a href="https://www.linkedin.com/in/md-jahedul-islam37/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/GitHub_Portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrbabu07)
+<a href="https://github.com/mrbabu07"><img src="https://img.shields.io/badge/GitHub_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-*"Code is not just syntax — it's the language of ideas made real."* ⚡
-
-<br/>
+*"Code is not just syntax — it's the language of ideas made real."*
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:45B7D1,30:4ECDC4,60:FFE66D,100:FF6B6B&height=150&section=footer&text=Made%20with%20⚡%20by%20mrbabu07&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,30:203A43,60:2C5364,100:0F2027&height=150&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=16&fontColor=00F5D4&animation=fadeIn&fontAlignY=65"/>
