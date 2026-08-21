@@ -146,7 +146,7 @@ Rental property marketplace API with real Stripe payments & a type-safe backend.
 
 **🏛️ Premier University Chittagong**
 B.Sc. in Computer Science & Engineering
-Chittagong, Bangladesh — 6th Semester (Ongoing)
+Chittagong, Bangladesh — 7th Semester (Ongoing)
 
 </td>
 <td width="50%" valign="top">
